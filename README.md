@@ -6,20 +6,20 @@ A modern and responsive **Todo List Application** built with **React.js**. This 
 
 ---
 
-## 🚀 Features
+# Features
 
-- ➕ Add new todos
-- ✏️ Edit existing todos
-- 🗑️ Delete todos
-- ✅ Mark todos as completed
-- 🎨 Smooth enter/exit animations
-- 📱 Responsive user interface
-- 🔄 Dynamic state updates using React
-- 🆔 Unique IDs generated using UUID
+-  Add new todos
+-  Edit existing todos
+-  Delete todos
+-  Mark todos as completed
+-  Smooth enter/exit animations
+-  Responsive user interface
+-  Dynamic state updates using React
+-  Unique IDs generated using UUID
 
 ---
 
-## 🛠️ Technologies Used
+# Technologies Used
 
 - React.js
 - JavaScript (ES6+)
@@ -30,7 +30,7 @@ A modern and responsive **Todo List Application** built with **React.js**. This 
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 ```
 src/
@@ -46,27 +46,27 @@ src/
 
 ---
 
-## ⚙️ Installation
+# Installation
 
-### Clone the repository
+# Clone the repository
 
 ```bash
 git clone https://github.com/your-username/react-animated-todo-list.git
 ```
 
-### Navigate to project directory
+# Navigate to project directory
 
 ```bash
 cd react-animated-todo-list
 ```
 
-### Install dependencies
+# Install dependencies
 
 ```bash
 npm install
 ```
 
-### Start the development server
+# Start the development server
 
 ```bash
 npm start
@@ -80,7 +80,7 @@ http://localhost:3000
 
 ---
 
-## 📦 Dependencies
+# Dependencies
 
 Install the required packages:
 
@@ -90,7 +90,7 @@ npm install react-transition-group uuid
 
 ---
 
-## 🎯 Application Workflow
+# Application Workflow
 
 1. User enters a task.
 2. **NewTodoForm** sends the task to **TodoList**.
@@ -104,7 +104,7 @@ npm install react-transition-group uuid
 
 ---
 
-## 🏗️ Component Architecture
+# Component Architecture
 
 ```
                  App
@@ -122,7 +122,7 @@ npm install react-transition-group uuid
 
 ---
 
-## 🔄 React Concepts Used
+# React Concepts Used
 
 - Class Components
 - State Management
@@ -138,7 +138,7 @@ npm install react-transition-group uuid
 
 ---
 
-## ✨ Animations
+# Animations
 
 This project uses **react-transition-group** to provide:
 
@@ -148,7 +148,7 @@ This project uses **react-transition-group** to provide:
 
 ---
 
-## 📸 Screenshots
+# Screenshots
 
 Add screenshots of your application here.
 
@@ -163,7 +163,7 @@ screenshots/
 
 ---
 
-## 🎓 Learning Outcomes
+# Learning Outcomes
 
 This project helped in understanding:
 
@@ -178,37 +178,23 @@ This project helped in understanding:
 
 ---
 
-## 🔮 Future Enhancements
+# Future Enhancements
 
-- 🌙 Dark Mode
-- 💾 Local Storage support
-- 🔍 Search Todos
-- 📂 Todo Categories
-- 📅 Due Dates
-- ⭐ Priority Levels
-- 📱 Mobile-first improvements
-- ☁️ Backend integration
+-  Dark Mode
+-  Local Storage support
+-  Search Todos
+-  Todo Categories
+-  Due Dates
+-  Priority Levels
+-  Mobile-first improvements
+-  Backend integration
 
 ---
 
-## 👩‍💻 Author
+# Author
 
 **Hemanshi Nagar**
 
 - GitHub: https://github.com/your-username
 - LinkedIn: https://linkedin.com/in/your-profile
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to fork it!
-
-Happy Coding! 🚀
 
